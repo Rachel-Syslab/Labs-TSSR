@@ -1,6 +1,6 @@
 # Labs — Formation TSRC
 
-En reconversion professionnelle vers la cybersécurité — formation TSRC débutée le 1er septembre 2026.
+En reconversion professionnelle vers les systèmes/réseaux et cybersécurité — formation TSSR débutée le 1er septembre 2026.
 
 Ce dépôt regroupe les labs pratiques réalisés au fil de la formation (Studi), principalement sous Packet Tracer. L'objectif est de documenter ma progression au fil de l'eau — le raisonnement et les blocages rencontrés, pas juste le résultat final.
 
