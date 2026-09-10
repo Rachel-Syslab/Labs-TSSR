@@ -1,6 +1,6 @@
 # Lab 01 — VLAN & Trunk : isolation Secrétariat / Informatique
 
-> Premier lab en autonomie, réalisé une semaine après le début de ma formation TSRC (Studi). Objectif : être à l'aise de A à Z sur la création de VLAN, l'adressage IP et la configuration d'un trunk entre deux switches Cisco (Packet Tracer).
+> Premier lab en autonomie, réalisé une semaine après le début de ma formation TSSR en distanciel. Objectif : être à l'aise de A à Z sur la création de VLAN, l'adressage IP et la configuration d'un trunk entre deux switches Cisco (Packet Tracer).
 
 ## Contexte
 
