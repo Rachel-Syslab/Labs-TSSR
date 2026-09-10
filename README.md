@@ -1,4 +1,4 @@
-# Labs — Formation TSRC
+# Labs — Formation TSSR
 
 En reconversion professionnelle vers les systèmes/réseaux et cybersécurité — formation TSSR débutée le 1er septembre 2026.
 
